@@ -10,7 +10,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git://github.com/omarmhmmd/homage2squares"
+    "url": "git://github.com/omarmhmmd/josefAlbersBot"
   },
   "dependencies": {
     "twit": "^2.2.9"
